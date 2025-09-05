@@ -47,7 +47,7 @@ This project demonstrates **problem-solving, frontend development skills, and AI
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/TicTacToe.git
+   git clone https://github.com/ninadpatil05/SCT_WD_3.git
 
 2. Open index.html in your browser.
 
